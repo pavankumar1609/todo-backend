@@ -1,0 +1,14 @@
+uncaughtException: You should provide db to log to.
+Error: You should provide db to log to.
+    at new exports.MongoDB (C:\Users\pavan\OneDrive\Desktop\todo-backend\node_modules\winston-mongodb\lib\winston-mongodb.js:61:11)
+    at Object.<anonymous> (C:\Users\pavan\OneDrive\Desktop\todo-backend\loggers\errorLogger.js:11:5)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\pavan\OneDrive\Desktop\todo-backend\middleware\error.js:1:16)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+2022-12-20T09:30:10.402Z
+

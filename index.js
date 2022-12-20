@@ -6,7 +6,6 @@ const app = express();
 app.use(cors());
 
 require("dotenv").config();
-require("./startup/dotenv")(app); //1
 require("./loggers/exceptionLogger"); //2
 require("./loggers/rejectionLogger"); //2
 require("./startup/prod")(app); //3
