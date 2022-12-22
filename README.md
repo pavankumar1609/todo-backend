@@ -10,6 +10,10 @@ https://docs.mongodb.com/manual/installation/
 
 Once you install MongoDB, make sure it's running.
 
+### Environment Variables
+
+cerate .env file root of your project and set all environment variables as i mention in .env.sample file. 
+
 ### Install the Dependencies
 
 Next, from the project folder, install the dependencies:
